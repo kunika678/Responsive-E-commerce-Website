@@ -1,0 +1,90 @@
+body{
+    background-color: white;
+    margin:0;
+}
+/*.top_Header{
+    background-color: black;
+    
+}*/
+.header_Left{
+    display: flex;
+    padding-left:20px ;
+    width: 40%;
+    align-items: center;
+}
+
+svg{
+    color: rgb(25, 23, 23);
+}
+
+.companyName{
+    margin-left: 10px;
+    color: black;
+    font-size:small;
+    font-weight: bold;
+}
+
+.tag{
+    font-size: smaller;
+    color: gray;
+}
+.btn-editor1{
+    margin-right: 6px;;
+    height: 32px;
+    padding: 4px;
+    border-radius: 0;
+}
+
+.btn-editor2{
+    margin-right: 6px;;
+    height: 32px;
+    padding: 4px;
+    border-radius: 0;
+}
+
+.footer{
+    width: 100%;
+    height: 55px;
+    background-color: black;
+    color: white;
+    position:relative;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: smaller;
+}
+
+.card{
+    margin-left: 0.6cm;
+    width: 250px;
+    height: 450px;
+}
+.card-img-top{
+    margin-top: 0.2cm;
+    width: 230px;
+    height: 260px;
+}
+
+.card-body{
+    background-color:whitesmoke;
+    color: black;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+.copy{
+    color: gray;
+
+}
+
+.btni{
+    background-color: lightgray;
+}
+
+.btni:hover{
+    background-color: white;
+
+    
+}
+
